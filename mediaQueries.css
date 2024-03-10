@@ -1,0 +1,11 @@
+@media screen and (min-width: 667px) {
+    #content{
+        max-width: 70vw;
+        margin: auto;
+    }
+    header{
+        align-items: center;
+        justify-content: center;
+        gap: 5rem;
+    }
+}
